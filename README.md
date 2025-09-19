@@ -1,17 +1,17 @@
 ### Hi there, I'm Yuting Tan 👋
 🚀 You can also call me Kristina or Tina.
 
-I'm a Ph.D. applicant passionate about building cognitively inspired AI. My research focuses on self-supervised learning for egocentric vision and enhancing Large Language Models with psychological alignment. I aim to advance object-centric video models for embodied AI.
+I am a Ph.D. applicant focused on the intersection of **Robotics & Embodied AI**, **3D Computer Vision**, and **Self-Supervised Learning**. My goal is to develop robust object-centric models from egocentric video. I am also passionate about the applications of Large Language Models in creating psychologically-aligned **Intelligent Agents**.
 
 ---
 
 * 🔭 **I’m currently working on:** Advancing object-centric video models for embodied AI, with a focus on depth-aware proto-object representation (**EgoViT**) and explicit memory control in role-playing LLMs (**PsyMem**).
 
-* 🌱 **I’m currently exploring:** Hierarchical semantic abstraction and new memory alignment strategies for next-generation AI models.
+* 🌱 **I’m currently exploring:** Neural rendering techniques for 3D reconstruction and building more biologically-plausible AI models inspired by computational neuroscience.
 
-* 👯 **I’m looking to collaborate on:** Projects related to self-supervised learning, egocentric video understanding, and building more coherent, persona-driven language models.
+* 👯 **I’m looking to collaborate on:** Projects in Robot Learning, 3D Vision, Representation Learning, and NLP for Intelligent Agents.
 
-* 💡 **I'm open to discussing:** New ideas at the intersection of computer vision, NLP, and cognitive science.
+* 💡 **I'm open to discussing:** Anything related to embodied AI, visual geometry, foundation models, and human-robot interaction.
 
 * 💬 **Ask me about:** Egocentric vision, Vision Transformers, large-scale model training on HPC clusters, or the secret social lives of campus cats!
 
