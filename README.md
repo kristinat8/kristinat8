@@ -7,7 +7,7 @@ I am a Ph.D. applicant focused on the intersection of **Robotics & Embodied AI**
 
 * 🔭 **I’m currently working on:** Advancing object-centric video models for embodied AI, with a focus on depth-aware proto-object representation (**EgoViT**) and explicit memory control in role-playing LLMs (**PsyMem**).
 
-* 🌱 **I’m currently exploring:** Neural rendering techniques for 3D reconstruction and building more biologically-plausible AI models inspired by computational neuroscience.
+* 🌱 **I’m currently exploring:** Building more biologically-plausible AI models inspired by computational neuroscience.
 
 * 👯 **I’m looking to collaborate on:** Projects in Robot Learning, 3D Vision, Representation Learning, and NLP for Intelligent Agents.
 
